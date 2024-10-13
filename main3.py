@@ -1,28 +1,29 @@
 # operasi aritmatika
+
 # Mendefinisikan variable
 angka1 = 10
 angka2 = 5
 angka3 = 1
 
-# # Operasi penjumlahan
-# hasil_penjumlahan = angka1 + angka2 + angka3
-# print("Hasil penjumlahan:", hasil_penjumlahan)
+# Operasi penjumlahan
+hasil_penjumlahan = angka1 + angka2 + angka3
+print("Hasil penjumlahan:", hasil_penjumlahan)
 
-# # Operasi pengurangan
-# hasil_pengurangan = angka1 - angka2 - angka3
-# print("Hasil pengurangan:", hasil_pengurangan)
+# Operasi pengurangan
+hasil_pengurangan = angka1 - angka2 - angka3
+print("Hasil pengurangan:", hasil_pengurangan)
 
-# # Operasi perkalian
-# hasil_perkalian = angka1 * angka2 * angka3
-# print("Hasil perkalian:", hasil_perkalian)
+# Operasi perkalian
+hasil_perkalian = angka1 * angka2 * angka3
+print("Hasil perkalian:", hasil_perkalian)
 
-# # Operasi pembagian
-# hasil_pembagian = angka1 / angka2 / angka3
-# print("Hasil pembagian:", hasil_pembagian)
+# Operasi pembagian
+hasil_pembagian = angka1 / angka2 / angka3
+print("Hasil pembagian:", hasil_pembagian)
 
-# # Operasi pemangkatan
-# hasil_pemangkatan = angka1 ** angka2 ** angka3
-# print("Hasil pemangkatan:", hasil_pemangkatan)
+# Operasi pemangkatan
+hasil_pemangkatan = angka1 ** angka2 ** angka3
+print("Hasil pemangkatan:", hasil_pemangkatan)
 
 # operasi perbandingan 
 
