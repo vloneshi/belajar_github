@@ -29,7 +29,8 @@ if nilai >= 75:
 else :
     print("Anda belum lulus ujian.")
 
-nilai = [70]
+# Challenge
+nilai = [80,75,56,45]
 for i in nilai:
     if i >= 80:
         status = "Baik Sekali"
@@ -44,7 +45,7 @@ for i in nilai:
 
     print(f"Nilai: {i}, status: {status}")
 
-
+# Latihan
 for princess in range(1, 20):
     if princess == 6:
         break

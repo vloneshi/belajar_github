@@ -66,6 +66,7 @@ print("\n==Perintah Tuple==\n")
 
 angka1 = (1, 2, 3)
 angka2 = (4, 5, 6)
-angka3 = angka1 + angka2
+angka3 = angka1 + angka2 # Menggabungkan angka nya menjadi 1
 
+# print(angka1,angka2)
 print(angka3)
