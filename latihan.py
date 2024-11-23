@@ -87,3 +87,4 @@ print(buah_tuple) # Output: ('Apel', 'Pisang', 'Mangga')
 print(buah_tuple[0])  # Output: Apel
 print(buah_tuple[2])  # Output: Mangga
 
+

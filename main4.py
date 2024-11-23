@@ -16,7 +16,7 @@ while angka <= 20:
 
     
 
-Percabangan if
+# Percabangan if
 nilai = 60
 if nilai >= 75:
     print("Anda lulus ujian.")
@@ -68,5 +68,5 @@ for c in nilai:
     elif c >= 70:
         grade = "C"
     else:
-        grade : "D"
+        grade = "D"
     print(f"Nilai: {c}, Grade: {grade}")
